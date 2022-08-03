@@ -1,0 +1,27 @@
+{
+  "name": "is_course",
+  "version": "1.0.0",
+  "description": "node js course ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonKramarenko/node-is_course.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js"
+  ],
+  "author": "Anton Kramarenko <kramarenko4362@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonKramarenko/node-is_course/issues"
+  },
+  "homepage": "https://github.com/AntonKramarenko/node-is_course#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
